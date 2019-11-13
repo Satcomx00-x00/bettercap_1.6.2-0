@@ -9,7 +9,7 @@ Bettercap 1.6.2 est une ancienne version de Bettercap, la 1.6.2 est plus simple.
 Pour de l'aide : <b>Bettercap -h </b></p>
 
 Qu'est-ce que l'<b>injection</b> ? 
-L'injection permet de placer un morceau de code non voulus par la/les victime(s), </p>exemple : injecter du html pour afficher un image à chaque page chargé par la victime,</p> ou encore du javaScript pour injecter des keyloggers. </p>Avec JavaScript les possibilitées d'attaques sont énormes (cryptojacking :ok_hand:, session hijacking ...). 
+L'injection permet de placer un morceau de code non voulus par la/les victime(s), </p>exemple : injecter du html pour afficher un image à chaque page chargé par la victime, ou encore du javaScript pour injecter des keyloggers. </p>Avec JavaScript les possibilitées d'attaques sont énormes (cryptojacking :ok_hand:, session hijacking ...). 
 :heavy_check_mark: Pour faire de l'injection (c'est le meilleur): <b>bettercap -I (INTERFACE ex:wlan0) -T (TARGET_IP) --proxy-https --httpd --proxy-module injecthtml --html-file xxxxx.html</b>  </p>
 
 L'utilisation de <b>Caplets</b> rend bettercap puissant. </p>
