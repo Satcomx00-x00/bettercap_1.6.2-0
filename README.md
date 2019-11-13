@@ -5,3 +5,6 @@ Pour de l'aide : Bettercap -h </p>
 
 Pour faire de l'injection (c'est le meilleur): bettercap -I (INTERFACE ex:wlan0) -T (TARGET_IP) --proxy-https --httpd --proxy-module injecthtml --html-file xxxxx.html  </p>
 
+L'utilisation de Caplets rend bettercap puissant. </p>
+
+Pourplus de détails voir le site officiel : https://www.bettercap.org/  </p>
