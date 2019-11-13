@@ -1,7 +1,7 @@
 # bettercap_1.6.2
-dépendances à satisfaires => apt install ruby ruby-colorize ruby-em-proxy ruby-net-dns ruby-network-interface ruby-packetfu ruby-packetfu </p>
+dépendances à satisfaires => apt-get install ruby ruby-colorize ruby-em-proxy ruby-net-dns ruby-network-interface ruby-packetfu ruby-packetfu </p>
 
-:heavy_check_mark: install = dpkg -i bettercap_1.6.2-0parrot1_all.deb </p>
+:heavy_check_mark: install => dpkg -i bettercap_1.6.2-0parrot1_all.deb </p>
 :heavy_check_mark: Pour sniffer un réseau (MITM): bettercap -X </p>
 Pour de l'aide : Bettercap -h </p>
 
