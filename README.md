@@ -1,4 +1,4 @@
-# bettercap_1.6.2
+# :heavy_check_mark: Bettercap 1.6.2
 
 Dépendances à satisfaires => <b> apt-get install ruby ruby-colorize ruby-em-proxy ruby-net-dns ruby-network-interface ruby-packetfu ruby-packetfu </b> </p>
 
