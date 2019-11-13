@@ -15,7 +15,7 @@ L'injection permet de placer un morceau de code non voulus par la/les victime(s)
 L'utilisation de <b>Caplets</b> rend bettercap puissant. </p>
 
 
-Pourplus de détails voir le site officiel : https://www.bettercap.org/  </p>
+Pour plus de détails voir le site officiel : https://www.bettercap.org/  </p>
 
 
 
