@@ -1,5 +1,6 @@
 # bettercap_1.6.2
-dépendances à satisfaires => <b> apt-get install ruby ruby-colorize ruby-em-proxy ruby-net-dns ruby-network-interface ruby-packetfu ruby-packetfu </b> </p>
+
+Dépendances à satisfaires => <b> apt-get install ruby ruby-colorize ruby-em-proxy ruby-net-dns ruby-network-interface ruby-packetfu ruby-packetfu </b> </p>
 
 :heavy_check_mark: install => <b>dpkg -i bettercap_1.6.2-0parrot1_all.deb</b> </p>
 Bettercap 1.6.2 est une ancienne version de Bettercap, la 1.6.2 est plus simple. </p> Or à chaque "<b>apt-get update</b>" le paquet se mettera à jour, mais nous ne voulons pas cela donc pour empêcher la MAJ du paquet on lance la commande suivante : <b>sudo apt-mark hold bettercap</b> </p>
