@@ -6,6 +6,8 @@ Bettercap 1.6.2 est une ancienne version de Bettercap, la 1.6.2 est plus simple.
 :heavy_check_mark: Pour sniffer un réseau (MITM): bettercap -X </p>
 Pour de l'aide : Bettercap -h </p>
 
+Qu'est-ce que l'injection ? 
+L'injection permet de placer un morceau de code non voulus par la/les victime(s), exemple : injecter du html pour afficher un image à chaque page chargé par la victime,</p> ou encore du javaScript pour injecter des keyloggers. </p>Avec JavaScript les possibilitées d'attaques sont énormes. 
 :heavy_check_mark: Pour faire de l'injection (c'est le meilleur): bettercap -I (INTERFACE ex:wlan0) -T (TARGET_IP) --proxy-https --httpd --proxy-module injecthtml --html-file xxxxx.html  </p>
 
 L'utilisation de Caplets rend bettercap puissant. </p>
