@@ -1,5 +1,5 @@
 # :heavy_check_mark: Bettercap 1.6.2
-Bettercap est un outils MITM multifonction, exemple : sniffing, injection ... Cependant, sniffer un réseau qui n'est pas le votre est illégal.
+Bettercap est un outils MITM multifonction, exemple : sniffing, injection ... Cependant, sniffer un réseau qui n'est pas le votre est illégal. </p>
 Dépendances à satisfaire => <b> apt-get install ruby ruby-colorize ruby-em-proxy ruby-net-dns ruby-network-interface ruby-packetfu ruby-packetfu </b> </p>
 
 :heavy_check_mark: install => <b>dpkg -i bettercap_1.6.2-0parrot1_all.deb</b> </p>
