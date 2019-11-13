@@ -1,5 +1,5 @@
 # bettercap_1.6.2-0parrot1_all
-install = dpkg -i bettercap_1.6.2-0parrot1_all.deb 
+install = dpkg -i bettercap_1.6.2-0parrot1_all.deb </p>
 Pour sniffer un réseau (MITM): bettercap -X
 Pour de l'aide : Bettercap -h
 
