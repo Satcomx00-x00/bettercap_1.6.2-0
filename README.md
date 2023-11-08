@@ -3,7 +3,7 @@
 Bettercap est un outils MITM multifonction, exemple : sniffing, injection ... </p>
 :heavy_exclamation_mark: Cependant, sniffer un réseau qui n'est pas le votre est illégal. </p>
 Dépendances à satisfaire => <b> ```apt-get install ruby libpcap-dev ruby-colorize ruby-em-proxy ruby-net-dns ruby-network-interface ruby-packetfu ruby-packetfu ```</b> </p>
-Pour télécharger :<b> ```git clone https://github.com/hurikayne/bettercap_1.6.2-0parrot1_all``` </b> </p>
+Pour télécharger :<b> ```git clone https://github.com/satcomx00/bettercap_1.6.2-0parrot1_all``` </b> </p>
 :heavy_check_mark: install => <b>```dpkg -i bettercap_1.6.2-0parrot1_all.deb```</b> </p>
 Bettercap 1.6.2 est une ancienne version de Bettercap, la 1.6.2 est plus simple. </p> Or à chaque "<b>```apt-get update```</b>" le paquet se mettera à jour, mais nous ne voulons pas cela donc pour empêcher la MAJ du paquet on lance la commande suivante : <b>```sudo apt-mark hold bettercap```</b> </p>
 :heavy_check_mark: Pour sniffer un réseau (MITM): ```bettercap -X ```</p>
